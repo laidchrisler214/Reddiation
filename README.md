@@ -1,6 +1,8 @@
 #  Reddiation - A Reddit Client
 >This project serves as an IOS Developer technical exam for [Eucaly](http://eucaly-inc.jp/)
+
 >Selected Assumption A - Coach a junior engineer
+
 > Developer Chrisler Laid [chrislaid.com](https://chrislaid.com/)
 
 ![App Image](https://firebasestorage.googleapis.com/v0/b/flashchat-3342f.appspot.com/o/86312829_2484497451816040_3162561862323666944_n.jpg?alt=media&token=14a4b737-079e-463f-89f4-67b09f19f72f)
