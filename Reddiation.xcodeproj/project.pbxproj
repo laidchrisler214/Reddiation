@@ -41,6 +41,7 @@
 		EB1F7CC423F56F6400F4590D /* SubRedditsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubRedditsViewController.swift; sourceTree = "<group>"; };
 		EB1F7CCA23F5706100F4590D /* SubredditsRequestsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubredditsRequestsManager.swift; sourceTree = "<group>"; };
 		EB3ED4DD23F7C3EE00EDFC9B /* PostingsRequestsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostingsRequestsManager.swift; sourceTree = "<group>"; };
+		EB52870323F9624100F83A88 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		EB909B9523F8175200EAFC7F /* ContentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewController.swift; sourceTree = "<group>"; };
 		EBA44EB923F7F675001BEE4B /* PostingsModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostingsModel.swift; sourceTree = "<group>"; };
 		EBA44EBA23F7F676001BEE4B /* PostingsData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PostingsData.swift; sourceTree = "<group>"; };
@@ -74,7 +75,6 @@
 				F669B505B99DC232904383F9 /* Pods-Reddiation.debug.xcconfig */,
 				F622BB7C415449E42A21DFEB /* Pods-Reddiation.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -89,6 +89,7 @@
 		EB1F7CA423F56EC000F4590D = {
 			isa = PBXGroup;
 			children = (
+				EB52870323F9624100F83A88 /* README.md */,
 				EB1F7CAF23F56EC100F4590D /* Reddiation */,
 				EB1F7CAE23F56EC100F4590D /* Products */,
 				40BE4CAC4E3EA9625FD9415B /* Pods */,
